@@ -1,0 +1,48 @@
+/* HomePage */
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #333;
+    font-family: Arial, sans-serif;
+    font-size: 60px;
+}
+.btn{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    padding: 15px 30px;
+    font-size: 18px;
+    margin: 10px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+.BgHead{
+    background-color: black;
+    width: 100vw;
+    height: 15vh;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.frame{
+    background-color: #333;
+    width: 100%;
+    height: 90vh;
+}
