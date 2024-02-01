@@ -3,5 +3,4 @@
 นายสุรวุฒิ ทั่งจัน<br>
 <b>ตัวอย่าง:</b><br>
 <img src='./document/หน้าตาเกม.png' alt='sample'><hr>
-<img src='./document/หน้าตาเกม2.png alt=''><hr>
 <a href='https://Chaowpan.github.io/Tenanswers/HomePage.html'>ทดลองเล่นเกม</a>
